@@ -1,2 +1,2 @@
-# LGR---Flight-Delay
+# LGR-Flight-Delay
 Predict flights delay by using logistic regression
